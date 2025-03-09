@@ -5,3 +5,5 @@ console.log(addFunction(5 , 2));
 // // Here, we are getting the output on TERMINAL as :-
 // // 7
 
+
+// // // This way of exports and import (require) is known as commonjs;
